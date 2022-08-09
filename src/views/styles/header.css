@@ -1,0 +1,17 @@
+.header-parent-row{
+    width: 95% !important;
+    margin: 0rem auto !important;
+}
+
+.header-parent-row .header-left{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1);
+    align-self: center !important;
+    vertical-align: middle !important;
+}
+
+.header-parent-row .header-right{
+    display: flex;
+    justify-content: space-between;
+}
